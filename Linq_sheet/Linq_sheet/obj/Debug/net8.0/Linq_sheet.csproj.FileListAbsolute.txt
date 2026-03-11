@@ -1,0 +1,14 @@
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\bin\Debug\net8.0\Linq_sheet.exe
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\bin\Debug\net8.0\Linq_sheet.deps.json
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\bin\Debug\net8.0\Linq_sheet.runtimeconfig.json
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\bin\Debug\net8.0\Linq_sheet.dll
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\bin\Debug\net8.0\Linq_sheet.pdb
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\obj\Debug\net8.0\Linq_sheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\obj\Debug\net8.0\Linq_sheet.AssemblyInfoInputs.cache
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\obj\Debug\net8.0\Linq_sheet.AssemblyInfo.cs
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\obj\Debug\net8.0\Linq_sheet.csproj.CoreCompileInputs.cache
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\obj\Debug\net8.0\Linq_sheet.dll
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\obj\Debug\net8.0\refint\Linq_sheet.dll
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\obj\Debug\net8.0\Linq_sheet.pdb
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\obj\Debug\net8.0\Linq_sheet.genruntimeconfig.cache
+C:\Users\taqy.reda\source\repos\Linq_sheet\Linq_sheet\obj\Debug\net8.0\ref\Linq_sheet.dll
